@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to my Github
 
-<!--
-**iotaaemilius/iotaaemilius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an history student with great interest in data analysis and exploration.
+Currently I am studying in Berlin at the FU and HU.
 
-Here are some ideas to get you started:
+You can find here mostly:
+  1. 📚 Papers on history
+  2. 📊 Data analytics
+  3. 💻 Linux stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>[!CAUTION]
+>I am completly self-taught my code will not be the best of the bunch.
+
+### However:
+If your are looking for someone motivated and enthuastic to contribute to your Open Source project, I will be readily available.
+
+
+
+
